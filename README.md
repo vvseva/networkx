@@ -1,2 +1,2 @@
 # networkx
-the social web
+HW from the social web course in University of Bergen 
